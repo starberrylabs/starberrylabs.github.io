@@ -786,7 +786,7 @@ input[type='checkbox'] {
 }
 
 .header .header-content {
-	padding-top: 6rem;
+	padding-top: 4rem;
 	padding-bottom: 4rem;
 	text-align: center;
 }
@@ -899,8 +899,8 @@ input[type='checkbox'] {
 /*     07. Features     */
 /************************/
 .tabs {
-	padding-top: 6rem;
-	padding-bottom: 8.125rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
 	background-color: #f3f7fd;
 }
 
@@ -1076,8 +1076,8 @@ input[type='checkbox'] {
 /*     09. Details     */
 /***********************/
 .basic-1 {
-	padding-top: 7.5rem;
-	padding-bottom: 6rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 
 .basic-1 .text-container {
@@ -1353,8 +1353,8 @@ input[type='checkbox'] {
 /*     13. Newsletter     */
 /**************************/
 .form {
-	padding-top: 4rem;
-	padding-bottom: 6rem;
+	padding-top: 0rem;
+	padding-bottom: 4rem;
 }
 
 .form .text-container {
@@ -1887,7 +1887,7 @@ a:hover.back-to-top {
 
 	/* Details */
 	.basic-1 {
-		padding-top: 6rem;
+		padding-top: 4rem;
 	}
 
 	.basic-1 .text-container {
@@ -1997,7 +1997,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .header-content {
-		padding-top: 11rem;
+		padding-top: 5rem;
 		padding-bottom: 5rem;
 	}
 
