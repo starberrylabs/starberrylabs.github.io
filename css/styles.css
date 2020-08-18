@@ -36,6 +36,13 @@ Colors:
 - Body text - dark gray #555
 ******************************************/
 
+h2 .highlight {
+	color: #ff0037;
+}
+
+h2 .highlight2 {
+	color: #5f4dee;
+}
 
 /******************************/
 /*     01. General Styles     */
@@ -786,8 +793,8 @@ input[type='checkbox'] {
 }
 
 .header .header-content {
-	padding-top: 4rem;
-	padding-bottom: 4rem;
+	padding-top: 3rem;
+	padding-bottom: 2rem;
 	text-align: center;
 }
 
@@ -899,8 +906,8 @@ input[type='checkbox'] {
 /*     07. Features     */
 /************************/
 .tabs {
-	padding-top: 4rem;
-	padding-bottom: 4rem;
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
 	background-color: #f3f7fd;
 }
 
@@ -1076,8 +1083,8 @@ input[type='checkbox'] {
 /*     09. Details     */
 /***********************/
 .basic-1 {
-	padding-top: 5rem;
-	padding-bottom: 5rem;
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
 }
 
 .basic-1 .text-container {
@@ -1354,7 +1361,7 @@ input[type='checkbox'] {
 /**************************/
 .form {
 	padding-top: 0rem;
-	padding-bottom: 4rem;
+	padding-bottom: 1rem;
 }
 
 .form .text-container {
@@ -1887,7 +1894,7 @@ a:hover.back-to-top {
 
 	/* Details */
 	.basic-1 {
-		padding-top: 4rem;
+		padding-top: 1.5rem;
 	}
 
 	.basic-1 .text-container {
@@ -1997,7 +2004,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .header-content {
-		padding-top: 5rem;
+		padding-top: 4rem;
 		padding-bottom: 5rem;
 	}
 
