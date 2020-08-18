@@ -1633,6 +1633,9 @@ a:hover.back-to-top {
 		justify-content: center;
 		align-items: center;
 	}
+	.header .h1 {
+		line-height: 3.5rem;
+	}
 }
 
 .formfield {
