@@ -1627,6 +1627,17 @@ a:hover.back-to-top {
 	text-align: left;
 }
 
+@media (max-width: 992px) {
+	.sm-center {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+.formfield {
+	min-width: 290px;
+}
 
 /*****************************/
 /*     19. Media Queries     */
